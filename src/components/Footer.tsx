@@ -7,7 +7,7 @@ export default function Footer() {
       <div class="footer-inner clearfix">
         <div class="foot-copyr">UAKINO.CLUB</div>
         <ul class="foot-menu clearfix">
-          <li><a href="/abuse.html">Правовласникам vvvvv</a></li>
+          <li><a href="/abuse.html">Правовласникам</a></li>
         </ul>
         <div class="footersocial">
           <ul class="spicesocial">
