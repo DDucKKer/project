@@ -25,7 +25,8 @@ function App() {
         <Header/>
         
       <main>
-        <h1>Kino</h1>
+        <h1 className="text-5xl font-bold underline">Kino</h1> 
+        <button class="text-white px-4 sm:px-8 py-2 sm:py-3 bg-sky-700 hover:bg-sky-800">...</button>
       </main>
         
         <Footer/>
